@@ -13,7 +13,7 @@
 #include <EEPROMex.h> //  Modified EEPROM library that allows to store floats, doubles, strings, etc.
 #include <LiquidCrystal.h>  //  LCD module library & config
 #include <Keypad.h> //  Keypad module library
-#include "ACS712.h" //  ACS712 library
+#include "ACS712.h" //  ACS712 current sensor library
 //  Libraries constants for initialization
 const char apn[] = " ", user[] = "", pass[] = ""; //  Set your ISP apn value here, username and password are both optional
 const char keys[4][4] = { //  Keypad 4x4 config
