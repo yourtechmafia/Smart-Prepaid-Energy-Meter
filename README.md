@@ -10,3 +10,5 @@ Here are the list of modules used in this project:
 * SD card module to locally log data.
 * ACS712 current sensor to measure current readings.
 * SIM800L module for GPRS connection to Blynk Cloud.
+
+Fetch all necessary Arduino libraries for this project from (https://github.com/yourtechmafia/Awesome-Arduino-Libraries)
